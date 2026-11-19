@@ -1,0 +1,6 @@
+streamlit
+groq
+pymupdf
+pydantic
+python-dotenv
+pytest
